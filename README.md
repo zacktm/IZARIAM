@@ -1,19 +1,20 @@
 IZARIAM - Ikariam Development Project
 ======================================
 
-* Ikariam Development Forum: http://forum.spazze.net/
-* IZARIAM Beta Server: http://izariam.spazze.net/
+* Ikariam Development Cont. After ZZJHONS .. And Until A Totally Another Level Even Better Than Ikariam.
+* IF you need ti join me and the team please feal free. to contact me here.
 
 INSTALL:
 ========
 
-* Go to localhost/install/ or more help here: http://forum.spazze.net/topic/14-install-izariam-instalar-izariam/
+* Go to localhost/install/ 
 
 DEVELOPERS:
 ===========
 
 * ZZJHONS
 * Haku
+* ZACKTM
 
 EX-DEVELOPERS:
 ==============
